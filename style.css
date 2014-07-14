@@ -1,0 +1,134 @@
+body {
+ background-color:#FFF;
+ font:.6875em Verdana, sans-serif;
+ color:#000;
+}
+a {
+ color:#000;
+ text-decoration:underline;
+}
+a:hover {
+ text-decoration:none;
+}
+h1 {
+ font-size:4.265em;
+ font-weight:700;
+}
+
+.graph {
+ width: 555px;
+ height: 340px;
+}
+.graph-row {
+ text-align: center;
+}
+.graph-container {
+ width: 600px;
+ height: 340px;
+ display: inline-block;
+}
+
+.appCompContainer {
+ text-align: center;
+}
+
+.summary-graph-container {
+	width: 75%;
+	height: 340px;
+	display: inline-block;
+}
+
+.title {
+	font: bold 14px Arial;
+}
+
+.tooltip {
+ -moz-border-radius:.5em;
+ -webkit-border-radius:.5em;
+ border-radius: .5em;
+ background-color:#000;
+ color:#FFF;
+ display:none;
+ opacity:0.8;
+ padding:.25em;
+ position:absolute;
+}
+.tooltip a:link, .tooltip a:active, .tooltip a:visited {
+ color:#FFF;
+ text-decoration: underline;
+}
+.tooltip a:hover {
+ color:#FFF;
+ text-decoration: none;
+}
+
+.closeable {
+ padding: 15px;
+ opacity: 1.0;
+ text-align: left;
+ padding-top: 8px;
+}
+
+.closeButton {
+ color:#CCC;
+ font-family: monospace;
+ cursor: pointer;
+ float: right;
+}
+
+.tiptext {
+ background: #222;
+ -moz-border-radius:.5em;
+ -webkit-border-radius:.5em;
+ border-radius: .5em;
+ padding: 10px;
+ clear: both;
+}
+
+.navcontainer {
+	width: 100%
+}
+
+.menu {
+ text-align: left;
+ vertical-align: top;
+ list-style-type: none;
+}
+
+.menu li a {
+ text-decoration: none;
+}
+
+.menu li a:hover {
+ text-decoration: underline;
+}
+
+#legend {
+ text-align: left;
+ list-style-type: none;
+}
+
+#legend li {
+ border-left: 1.2em solid #FFF;
+ margin-right: 2em;
+ padding-left: .3em;
+ margin-bottom: .2em;
+ font-size: 1.2em;
+}
+
+#about {
+ display: none;
+ margin-left: 250px;
+ width: 700px;
+}
+
+#breakdown {
+ display: none;
+ margin-left: 250px;
+ width: 700px;
+}
+
+.clicked {
+ font-weight: bold;
+}
+
