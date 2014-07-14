@@ -1,6 +1,6 @@
 "use strict";
 function createGraph(chartName) {
-	var fileName = chartName + '.json';
+	var fileName = 'data/' + chartName + '.json';
 		d3.json(fileName, function(error, data) {
 			nv.addGraph(function() {
 				var chart = nv.models.cumulativeLineChart().x(function(d) {
