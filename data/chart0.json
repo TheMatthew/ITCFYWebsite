@@ -1,1 +1,7 @@
-[{"values":[[1404765120000,4230]],"key":"org.eclipse.linuxtools#CTF Read & Seek Benchmark (500 seeks)#trace-kernel"}]
+[{
+    "key": "CTF Read & Seek Benchmark (500 seeks):tr",
+    "values": [[
+        1405024320000,
+        3780
+    ]]
+}]

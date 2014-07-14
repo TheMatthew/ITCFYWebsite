@@ -1,1 +1,7 @@
-[{"values":[[1403755200000,9494],[1403841600000,9516],[1404360000000,9016],[1404765120000,10874]],"key":"org.eclipse.linuxtools#Experiment benchmark(52)"}]
+[{
+    "key": "Experiment Benchmark traces:52",
+    "values": [[
+        1405024320000,
+        10174
+    ]]
+}]
