@@ -1,8 +1,8 @@
 [{
     "key": "CTF Read Benchmark:trace-kernel-vm",
-    "values": [[
-        1405024320000,
-        1708,
-		"test"
-    ]]
+    "values": [{
+        "label": {},
+        "x": 1405024320000,
+        "y": 1708
+    }]
 }]

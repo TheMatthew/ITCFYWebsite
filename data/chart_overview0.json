@@ -1,0 +1,34 @@
+[
+    {
+        "key": "CTF Read & Seek Benchmark (500 seeks):tr",
+        "values": [{
+            "label": {},
+            "x": 1405024320000,
+            "y": 3780
+        }]
+    },
+    {
+        "key": "CTF Read Benchmark:trace-kernel",
+        "values": [{
+            "label": {},
+            "x": 1405024320000,
+            "y": 934
+        }]
+    },
+    {
+        "key": "Experiment Benchmark traces: 136",
+        "values": [{
+            "label": {},
+            "x": 1405024320000,
+            "y": 33024
+        }]
+    },
+    {
+        "key": "LTTng Kernel Analysis: Trace2",
+        "values": [{
+            "label": {},
+            "x": 1405024320000,
+            "y": 11710
+        }]
+    }
+]

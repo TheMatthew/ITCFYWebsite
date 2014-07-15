@@ -1,7 +1,8 @@
 [{
     "key": "Event matching (time):Match TCP events",
-    "values": [[
-        1405024320000,
-        933
-    ]]
+    "values": [{
+        "label": {},
+        "x": 1405024320000,
+        "y": 933
+    }]
 }]

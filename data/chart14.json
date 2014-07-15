@@ -1,7 +1,8 @@
 [{
     "key": "Trace synchronization (time):Match TCP e",
-    "values": [[
-        1405024320000,
-        940
-    ]]
+    "values": [{
+        "label": {},
+        "x": 1405024320000,
+        "y": 940
+    }]
 }]

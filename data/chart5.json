@@ -1,7 +1,8 @@
 [{
     "key": "Experiment Benchmark traces:11",
-    "values": [[
-        1405024320000,
-        1908
-    ]]
+    "values": [{
+        "label": {},
+        "x": 1405024320000,
+        "y": 1908
+    }]
 }]
