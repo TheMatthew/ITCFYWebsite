@@ -2,6 +2,7 @@
     "key": "CTF Read Benchmark:trace-kernel-vm",
     "values": [[
         1405024320000,
-        1708
+        1708,
+		"test"
     ]]
 }]

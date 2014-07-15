@@ -284,11 +284,11 @@ var MetaData = {
         }
     },
 	"overview": {
-		"dimension": "CPU Time",
+		"dimension": "Lower is better",
 		"file": "chart_overview",
 		"jvm": "1.7",
 		"os": "windows",
 		"title": "Trace synchronization (time):Match TCP e",
-		"unit": "s"
+		"unit": ""
 		}
 }

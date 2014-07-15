@@ -16,14 +16,13 @@ h1 {
 }
 
 .graph {
- width: 555px;
  height: 340px;
 }
 .graph-row {
  text-align: center;
 }
 .graph-container {
- width: 600px;
+ width: 75%;
  height: 340px;
  display: inline-block;
 }
@@ -40,6 +39,10 @@ h1 {
 
 .title {
 	font: bold 14px Arial;
+}
+
+.titlebig {
+	font: bold 20px Arial;
 }
 
 .tooltip {
