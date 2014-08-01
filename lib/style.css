@@ -1,3 +1,7 @@
+.notice {
+ font :1.0em Verdana, sans-serif;
+ color: #003FED
+}
 body {
  background-color:#FFF;
  font:.6875em Verdana, sans-serif;
