@@ -3,6 +3,7 @@ ITCFYWebsite
 
 Is TraceCompass Fast Yet? Website
 ---------------------------------
+To see the site live: [is TMF/TraceCompass fast yet?](http://istmffastyet.dorsal.polymtl.ca/)
 
 To test the static website just rename data_example folder to data.
 
